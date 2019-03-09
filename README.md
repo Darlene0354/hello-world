@@ -1,2 +1,2 @@
 # hello-world
-the first day
+It is the first day.
